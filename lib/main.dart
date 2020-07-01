@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_facebook_auth/flutter_facebook_auth.dart';
+import 'package:signupfacebook/youtubepromotion.dart';
 
 void main() => runApp(MyApp());
 
@@ -118,6 +119,7 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           ),
+          youtubePromotion()
         ],
       ),
     );

@@ -1,6 +1,6 @@
 # signupfacebook
 
-<img src="" width="300" height="560">
+<img src="https://github.com/loydkim/sign_up_facebook/blob/master/sign_in_facebook_intro.gif" width="300" height="560">
 
 Before Start it, you should set up a Firebase environment in your flutter project.
 
